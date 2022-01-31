@@ -1,2 +1,2 @@
 # InnerEar
-Data Responive Ceramic Prototyping
+Working repository for data responsive ceramic prototyping. 
